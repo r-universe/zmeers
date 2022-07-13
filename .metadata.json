@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "ggparliament",
+    "oncran": true
+  }
+]
